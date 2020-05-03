@@ -24,7 +24,6 @@ patterns = {
 "picatic_api": "sk_live_[0-9a-z]{32}",
 "google_oauth_id": "[0-9(+-[0-9A-Za-z_]{32}.apps.googleusercontent.com",
 "google_api": "AIza[0-9A-Za-z-_]{35}",
-"google_captcha": "6L[0-9A-Za-z-_]{38}",
 "google_oauth": "ya29\\.[0-9A-Za-z\\-_]+",
 "amazon_aws_access_key_id": "AKIA[0-9A-Z]{16}",
 "amazon_mws_auth_token": "amzn\\.mws\\.[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}",
