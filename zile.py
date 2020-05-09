@@ -9,7 +9,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 # Base Variables
 colors = ["red","green","yellow","blue","magenta","cyan","white"]
 settings = {
-    "threads":10,
+    "threads":75,
     "requestTimeout":7,
     "requestUA":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"
 }
